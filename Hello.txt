@@ -1,3 +1,2 @@
 Hello,
-Let's checkout the CI/CD tool Jenkins.
-lets checkout SDLC first.
+Let's checkout the CI/CD.
