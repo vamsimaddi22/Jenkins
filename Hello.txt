@@ -1,3 +1,2 @@
 Hello,
 Let's checkout the CI/CD.
-Maven is build tool.
