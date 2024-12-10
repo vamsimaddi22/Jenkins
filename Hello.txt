@@ -1,2 +1,3 @@
 Hello,
-Let's checkout the CI/CD.
+Let's checkout the CI/CD Tool- Jenkins
+Let's checkout Version Control Tool - GIT
